@@ -3,6 +3,10 @@
 
 <p>Hi! I'm Nicolae, a beginner developer passionate about programming and technology. I'm currently learning frontend development and creating projects to improve my skills and gain practical experience.</p>
 
+<a href="https://t.me/USERNAME_TELEGRAM">
+  <img src="https://img.shields.io/badge/Telegram-FABD2F?style=for-the-badge&logo=telegram&logoColor=282828" alt="Telegram" />
+</a>
+
 ---
 
 ### ⚙️ Languages and Tools
@@ -19,7 +23,7 @@
 <table  border="0">
 <tr>
 <td>
-<img src="https://github-stats-extended.vercel.app/api?username=N1cuX&show_icons=true&bg_color=282828&hide_border=true&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=N1cuX&show_icons=true&theme=transparent&hide_border=true&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" alt="GitHub Stats" />
 </td>
 <td>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N1cuX&layout=compact&theme=transparent&hide_border=true&title_color=FABD2F&text_color=EBDBB2" alt="Top Languages" />
