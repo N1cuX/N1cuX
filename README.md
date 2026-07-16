@@ -1,5 +1,6 @@
-## Hi there 👋
+## 🖥️ N1cuX 
 
+**`Digital Craftsman (passionate developer)`**
 <!--
 **N1cuX/N1cuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
