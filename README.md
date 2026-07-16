@@ -7,7 +7,7 @@
 
 ### ⚙️ Languages and Tools
 <a href="https://github.com/N1cuX">
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,github,vscode&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,github,java,vscode,webstorm,idea&perline=10" alt="Skills" />
 </a>
 
 <br clear="left">
@@ -27,4 +27,37 @@
 </tr>
 </table>
 
+<details>
+<summary><h3>🚀 Nicu's Coding Journey</h3></summary>
+
+<br>
+
+My journey into programming started with curiosity and the desire to understand how technology works.
+
+I'm currently a beginner developer focused on **frontend development** and improving my skills by building projects and learning new technologies.
+
+### 📚 What I'm learning
+
+- 🌐 **HTML & CSS** — Creating clean and responsive web pages
+- ⚡ **JavaScript** — Understanding programming logic and interactive websites
+- 🔷 **TypeScript** — Writing more reliable and structured code
+- ⚛️ **React** — Building modern user interfaces
+- 🐙 **Git & GitHub** — Managing projects and improving my workflow
+- 💻 **Webstorm** — My main development environment
+
+### 🎯 My Goals
+
+- Build real-world projects
+- Improve my problem-solving skills
+- Learn modern frontend technologies
+- Write cleaner and more efficient code
+- Contribute to open-source projects in the future
+
+### 💡 My mindset
+
+> "Small progress every day leads to big results."
+
+Every project I build teaches me something new. I'm continuously learning, experimenting, and improving as a developer. 🚀
+
+</details>
 
