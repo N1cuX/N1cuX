@@ -9,7 +9,7 @@
   I'm currently learning frontend development and creating projects to improve my skills and gain practical experience.
 </p>
 
-<a href="https://t.me/USERNAME_TELEGRAM">
+<a href="https://t.me/N1cuX">
   <img src="https://img.shields.io/badge/Telegram-FABD2F?style=for-the-badge&logo=telegram&logoColor=282828" alt="Telegram" />
 </a>
 
