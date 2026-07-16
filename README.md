@@ -6,11 +6,9 @@
 ---
 
 ### ⚙️ Languages and Tools
-<img align="left" width="30px" style="padding-right: 10px;" alt="Java Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="left" width="30px" style="padding-right: 10px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img align="left" width="30px" style="padding-right: 10px;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="left" width="30px" style="padding-right: 10px;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-<img align="left" width="30px" style="padding-right: 10px;" alt="TypeSript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<a href="https://github.com/N1cuX">
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,github,vscode&perline=7" alt="Skills" />
+</a>
 
 <br clear="left">
 
