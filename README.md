@@ -5,8 +5,9 @@
 </a>
 
 <p>
-  Hi! I'm Nicolae, a beginner developer passionate about programming and technology.
-  I'm currently learning frontend development and creating projects to improve my skills and gain practical experience.
+  Hi! I'm Nicolae, a developer passionate about programming and technology.
+  I'm currently focused on frontend and backend development, building projects
+  to improve my skills and gain practical experience.
 </p>
 
 <a href="https://t.me/N1cuX">
@@ -18,10 +19,21 @@
 ### ⚙️ Languages and Tools
 
 <a href="https://github.com/N1cuX">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,github,java,vscode,webstorm,idea&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,java,spring,mysql,git,github,vscode,webstorm,idea&perline=10" alt="Languages and Tools" />
 </a>
 
 <br clear="left">
+
+#
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 📱 **ContactManager** | Full-stack contact management application | Java, Spring Boot, React, MySQL |
+| 🧪 **Cosmocert** | Modern multilingual cosmetic compliance website | React, Vite, JavaScript, Framer Motion |
+| 🍽️ **Panedelly** | Modern food and restaurant website | React, TanStack, Tailwind CSS |
+| 🏃 **MultiSport** | Sportswear e-commerce website | HTML, CSS, JavaScript |
 
 #
 
@@ -49,29 +61,33 @@
 
   My journey into programming started with curiosity and the desire to understand how technology works.
 
-  I'm currently a beginner developer focused on **frontend development** and improving my skills by building projects and learning new technologies.
+  I'm currently focused on developing my skills through practical projects, exploring both frontend and backend development.
 
   ### 📚 What I'm learning
 
-  - 🌐 **HTML & CSS** — Creating clean and responsive web pages
-  - ⚡ **JavaScript** — Understanding programming logic and interactive websites
-  - 🔷 **TypeScript** — Writing more reliable and structured code
+  - 🌐 **HTML & CSS** — Creating clean and responsive web interfaces
+  - ⚡ **JavaScript** — Building interactive web applications
+  - 🔷 **TypeScript** — Writing structured and maintainable code
   - ⚛️ **React** — Building modern user interfaces
-  - 🐙 **Git & GitHub** — Managing projects and improving my workflow
-  - 💻 **WebStorm** — My main development environment
+  - ☕ **Java** — Learning object-oriented programming and backend development
+  - 🌱 **Spring Boot** — Building REST APIs and backend applications
+  - 🗄️ **MySQL** — Working with relational databases
+  - 🐙 **Git & GitHub** — Version control and project management
 
   ### 🎯 My Goals
 
   - Build real-world projects
-  - Improve my problem-solving skills
-  - Learn modern frontend technologies
-  - Write cleaner and more efficient code
+  - Strengthen my frontend and backend skills
+  - Improve my problem-solving abilities
+  - Learn modern development technologies
+  - Build full-stack applications
   - Contribute to open-source projects in the future
 
   ### 💡 My mindset
 
   > "Small progress every day leads to big results."
 
-  Every project I build teaches me something new. I'm continuously learning, experimenting, and improving as a developer. 🚀
+  Every project I build teaches me something new. I'm continuously learning,
+  experimenting, and improving as a developer. 🚀
 
 </details>
