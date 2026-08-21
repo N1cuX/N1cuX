@@ -19,7 +19,7 @@
 ### ⚙️ Languages and Tools
 
 <a href="https://github.com/N1cuX">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,java,spring,mysql,git,github,vscode,webstorm,idea&perline=10" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,java,spring,mysql,git,github,vscode,webstorm,idea&perline=15" alt="Languages and Tools" />
 </a>
 
 <br clear="left">
